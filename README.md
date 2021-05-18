@@ -11,3 +11,5 @@
  Resources:
  - I used the Youtube videos provided by Professor Boyd.
  - https://forum.unity.com/threads/resolved-setting-animation-frame-rate.801936/ -> I used this link to be able to change the frames per seconds in animations.
+
+ 5/18/2021: Added Build.zip with .app and necessary files
